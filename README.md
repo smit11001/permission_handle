@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+#permission handler 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230606-140320](https://github.com/smit11001/permission_handle/assets/113500028/a75357ed-68f9-45c0-a2df-08ccc5d6f84d)
+![Screenshot_20230606-140328](https://github.com/smit11001/permission_handle/assets/113500028/3c377bda-7801-4c47-8a60-9aeeca1acfaf)
+![Screenshot_20230606-140339](https://github.com/smit11001/permission_handle/assets/113500028/10997033-8a16-4400-8c3b-759ed92c4ed9)
